@@ -1,286 +1,273 @@
 # The Sovereignty & Safety Reclamation Bundle
-## Complete Gumroad Product Listing & Marketing Copy
+
+## Product overview
+
+This is a premium digital bundle designed for survivors of domestic abuse, narcissistic relationships, trauma bonding, and high-conflict relational dynamics. The bundle combines a practical workbook, safety tools, educational guides, and recovery content into one polished Gumroad offer.
+
+Product title:
+The Sovereignty & Safety Reclamation Bundle
+
+Tagline:
+A clinical & somatic roadmap to escaping the cycle of abuse
+
+Suggested pricing:
+- Starter: $47
+- Recommended: $67
+- Premium: $97
 
 ---
 
-## 📌 PRODUCT OVERVIEW
+## Why this product works
 
-**Product Title:** The Sovereignty & Safety Reclamation Bundle  
-**Product Tagline:** A Clinical & Somatic Roadmap to Escaping the Cycle of Abuse
+This bundle is more than a workbook. It helps buyers understand the full pattern of abuse, not just the symptoms.
 
-**Price Recommendation:** $47-$97 (premium educational bundle)
+Included concepts:
+- domestic abuse patterns
+- coercive control
+- narcissistic relationship dynamics
+- trauma bonding
+- DARVO (Deny, Attack, Reverse Victim and Offender)
+- gaslighting
+- grey rock and yellow rock communication methods
+- safety planning
+- somatic boundaries
+- evidence tracking
+- post-separation survival and recovery
+
+The offer is positioned as a body-based, clinical, and practical toolkit for reclaiming safety and sovereignty.
 
 ---
 
-## 🎯 PRODUCT DESCRIPTION FOR GUMROAD
+## Core bundle contents
 
-### Main Sales Copy
+### 1. Master Interactive Workbook
+File: identifying-escaping-abuse-workbook.pdf
 
+This is the core 12-page print-ready workbook.
+
+Included sections:
+- recognizing power and control dynamics
+- identifying abuse patterns
+- safety planning and emergency prep
+- evidence collection log
+- the 60-second sensory check-in
+- 180-degree flashlight shift for inward reflection
+- weekly micro-boundary tracking
+- exit planning and safe destination strategies
+- child safety planning and code words
+- next-day security planning
+
+### 2. Stages of Trauma Bonding Packet
+File: stages-of-trauma-bonding-packet.pdf
+
+This deeper clinical guide explains how trauma bonds form through repeated cycles of:
+- idealization and love bombing
+- intermittent reinforcement
+- devaluation
+- cognitive dissonance
+- discard
+- hoovering
+
+It includes:
+- the six-stage biological cycle
+- neurochemical breakdowns for oxytocin, dopamine, cortisol, adrenaline, serotonin
+- somatic recovery roadmap
+- daily somatic detox log
+- practical body-based tools for regulation and recovery
+
+### 3. DARVO & Blame-Shifting Guide
+File: the-anatomy-of-blame-shifting-darvo-guide.pdf
+
+This guide helps buyers recognize manipulation in real time and respond without getting pulled into the trap.
+
+Included topics:
+- deny
+- attack
+- reverse victim and offender
+- gaslighting patterns
+- how to identify blame-shifting
+- how to document and respond safely
+
+### 4. Strategic Disinterest Communication Guide
+File: strategic-disinterest-communication-guide.pdf
+
+This resource covers:
+- grey rock method
+- yellow rock method
+- parallel parenting and co-parenting communication
+- court-safe templates for communication
+- what to do when high-conflict contact is unavoidable
+- how not to accidentally appear uncooperative in custody situations
+
+### 5. Digital Safety Planner
+File: safety-planning-worksheet.md
+
+This is a discreet, copy-and-paste safety planner in Markdown format.
+
+Benefits:
+- easy to copy into encrypted notes
+- customizable
+- less suspicious than a visible PDF on a phone
+- useful for storing emergency info privately
+
+### 6. Course visual asset
+File: course_banner_healing.png
+
+This works as:
+- desktop wallpaper
+- phone lock screen anchor
+- binder cover
+- visual reminder of the healing path and sovereignty journey
+
+### 7. Bonus resource
+File: toxic-vs-abusive-relationships-guide.pdf
+
+This clarifies the difference between unhealthy dynamics and actual abuse.
+
+It includes:
+- toxic relationships vs. abusive ones
+- coercive control
+- fear-driven manipulation
+- when a relationship crosses the line into abuse
+
+---
+
+## Gumroad product description
+
+### Product title
+The Sovereignty & Safety Reclamation Bundle
+
+### Tagline
+A clinical & somatic roadmap to escaping the cycle of abuse
+
+### Product description
 If you have ever tried to leave a toxic relationship—or tried to heal after getting out—you know that traditional advice like "just move on" or "have more self-respect" feels hollow.
 
-**When you live in a high-conflict or abusive dynamic, your nervous system's biological survival wiring is hijacked.**
+When you live in a high-conflict or abusive dynamic, your nervous system is hijacked by fear, unpredictability, and survival responses. Through cycles of affection and hostility, your brain becomes conditioned to a pattern of intermittent reinforcement. Leaving may feel not just emotional, but physically overwhelming.
 
-Through unpredictable cycles of affection and hostility (intermittent reinforcement), your brain is flooded with dopamine, oxytocin, adrenaline, and cortisol. Leaving doesn't just feel like a breakup—it triggers physical, chemical drug withdrawal.
+This bundle is designed to help you understand the biology behind the dynamic, recognize manipulation and blame-shifting, build a safety plan, and reclaim your confidence without being trapped in the cycle.
 
-**You cannot "think" your way out of a physiological response.** Rebuilding your life requires a somatic, step-by-step reclamation project.
+Included in this bundle:
+- a practical workbook for identifying and escaping abuse
+- a guide to trauma bonding and the six-stage cycle
+- a deep-dive on DARVO and blame-shifting
+- strategic disinterest and communication tools
+- a discreet safety planner
+- visual art and support resources
 
-This comprehensive digital bundle gives you the exact clinical insights, neurochemical frameworks, communication protocols, and safety checklists needed to transition from survival panic to complete personal sovereignty.
-
----
-
-## 📦 COMPLETE DOWNLOAD PACKAGE
-
-### **1. Master Interactive Workbook** (Core Asset)
-**File:** `identifying-escaping-abuse-workbook.pdf` (12 pages)
-
-✅ **Includes:**
-- 7 Sequential Clinical Modules (Recognizing power & control dynamics, trauma bond biochemistry, somatic boundaries)
-- Interactive Worksheets & Exercises
-- The 60-Second Sensory Check-In
-- Turning the Flashlight 180° Inward (breaking obsessive focus)
-- Weekly Micro-Boundary Tracking Sheets
-- Comprehensive Emergency Safety Plan
-- Go-Bag Checklist & Safe Destination Mapping
-- Child Safety Code Words
-- Next-Day Security Measures
-- Evidence Collection Incident Log (court-admissible format)
-- Ruled Pages for Personal Journaling
+This is more than a workbook. It is a full safety and sovereignty toolkit.
 
 ---
 
-### **2. The Stages of Trauma Bonding Packet** (NEW - Deep Dive)
-**File:** `stages-of-trauma-bonding-packet.pdf`
+## Short launch email / website sales copy
 
-✅ **Includes:**
-- **The 6-Stage Biological Cycle:**
-  - Stage 1: Idealization & Love-Bombing (The Hook)
-  - Stage 2: Intermittent Reinforcement & Conditioning
-  - Stage 3: Devaluation & Chronic Hyper-Arousal
-  - Stage 4: Cognitive Dissonance & The Compass of Shame
-  - Stage 5: Discard & Biochemical Withdrawal
-  - Stage 6: Hoovering & Traumatic Re-Attachment
+Subject: The 6 stages of trauma bonding—and why leaving feels so hard
 
-- **The Neurochemical Ledger:**
-  - How Oxytocin (attachment hormone) hijacks trust
-  - How Dopamine (reward neurotransmitter) creates addiction loops
-  - How Cortisol (stress hormone) hardwires fear memories
-  - How Adrenaline keeps you trapped in fight-or-flight
-  - How Serotonin drops to create OCD-like rumination
+If you’ve ever tried to leave a toxic relationship and felt an overwhelming pull to go back, this is not a sign of weakness. It is a biological response.
 
-- **Somatic Recovery Roadmap:**
-  - Daily exercises for metabolizing withdrawal
-  - Breaking rumination loops
-  - Retraining your nervous system
-  - The 180-Degree Flashlight Shift (breaking obsessive focus)
-  - The 75/25 Somatic Boundary Exercise
-  - Notice Without Narrating (mindfulness protocol)
+When an abusive or narcissistic partner creates unpredictability, intensity, and emotional whiplash, your brain becomes conditioned to the cycle. The pattern can create attachment, confusion, hypervigilance, and intense withdrawal when contact is cut off.
 
-- **Daily Somatic Detox Log:**
-  - Ruled tracking sheets for body sensations
-  - Focus-shift awareness logs
-  - Daily boundary action tracker
+That is why so many people feel physically exhausted, emotionally flooded, and deeply torn when they try to leave.
+
+This bundle is designed to help you understand what is happening, respond strategically, and reclaim your safety.
+
+Inside, you will get:
+- a print-ready workbook
+- a trauma bonding guide
+- a DARVO and blame-shifting explanation
+- communication tools for grey rock and yellow rock
+- a discreet digital safety planner
+- bonus visuals and support resources
+
+This is a body-based, practical, and clinical toolkit for women, survivors, and anyone navigating a high-conflict or abusive relationship.
 
 ---
 
-### **3. Clinical Deep-Dive Guides** (Advanced Resources)
+## WordPress page sales copy
 
-#### Guide A: **The Anatomy of Blame-Shifting**
-**File:** `the-anatomy-of-blame-shifting-darvo-guide.pdf` (5 pages)
+### Headline
+Workbooks for safety, sovereignty, and trauma recovery
 
-✅ **Covers:**
-- How DARVO works (Deny, Attack, Reverse Victim & Offender)
-- Recognizing gaslighting tactics in real-time
-- Dismantling blame-reversal in conversations
-- Court-safe documentation methods
-- How to respond without triggering escalation
-- Distinguishing between accountability conversations and manipulation
+### Intro paragraph
+You do not need to navigate abuse alone. This collection is designed to help you recognize what is happening, protect yourself, and rebuild a sense of autonomy after relational trauma.
 
-#### Guide B: **Strategic Disinterest Communication Guide**
-**File:** `strategic-disinterest-communication-guide.pdf` (6 pages)
+### CTA block
+Get the Sovereignty & Safety Reclamation Bundle
 
-✅ **Covers:**
-- Grey Rock Method (how to withhold emotional reactions)
-- Yellow Rock (for required co-parenting communication)
-- Parallel Parenting rules (minimal contact protocols)
-- **Court-Safe Email & Text Templates** for high-conflict situations
-- How to avoid gaslighting traps in co-parenting
-- When grey rocking helps vs. hurts in custody cases
-- Maintaining boundaries while protecting custody rights
+### Feature list
+- practical workbook
+- trauma bonding guide
+- safety planning tools
+- DARVO detection guide
+- grey rock communication templates
+- discreet digital planner
 
 ---
 
-### **4. Toxic vs. Abusive: Key Distinctions**
-**File:** `toxic-vs-abusive-relationships-guide.pdf` (4 pages)
+## File checklist for Gumroad upload
 
-✅ **Includes:**
-- Definition of Toxic Relationships (unhealthy dynamics without systematic control)
-- Definition of Abusive Relationships (coercive control & fear-based intimidation)
-- How to identify systematic abuse patterns
-- Risk assessment for your specific situation
-- When to seek professional help
-- Resources for immediate safety
-
----
-
-### **5. Encryption-Safe Digital Planner** (Discreet Format)
-**File:** `safety-planning-worksheet.md` (Markdown)
-
-✅ **Features:**
-- Raw, unsuspicious Markdown file format
-- Can be copy-pasted into encrypted notes apps
-- Customizable without leaving a visible PDF
-- Perfect for storing on phone without detection
-- Includes:
-  - Emergency contact numbers (coded)
-  - Safe destination addresses
-  - Code words for children
-  - Financial safety checklist
-  - Document location log
-  - Exit strategy timeline
+1. identifying-escaping-abuse-workbook.pdf
+2. stages-of-trauma-bonding-packet.pdf
+3. the-anatomy-of-blame-shifting-darvo-guide.pdf
+4. strategic-disinterest-communication-guide.pdf
+5. safety-planning-worksheet.md
+6. course_banner_healing.png
+7. toxic-vs-abusive-relationships-guide.pdf
 
 ---
 
-### **6. Visual Assets & Bonuses**
+## Suggested product positioning
 
-#### **Course Banner & Desktop Art**
-**File:** `course_banner_healing.png` (High-Resolution)
-- Perfect for desktop background
-- Phone lock screen inspiration
-- Binder cover art
-- Symbolizes journey from shadows to sovereignty
-
-#### **Bonus: Interactive Practice Quiz** (Studio App)
-- Scenario-based learning tool
-- Practice recognizing DARVO tactics in real-time
-- Test your boundary-setting skills
-- Learn to identify manipulation patterns
+This is not just a workbook. It is a premium bundle for people who need:
+- clarity about abuse and manipulation
+- a tactical safety plan
+- body-based and somatic recovery tools
+- communication strategies for difficult situations
+- support in protecting themselves and their children
 
 ---
 
-## 🎯 GUMROAD PRICING STRATEGY
+## Important caution
 
-### Recommended Price Tiers
+This product includes serious emotional abuse, trauma bonding, and coercive control education. It should be framed with empathy, clarity, and non-judgment. The tone should be supportive and validating, not sensational or fear-based.
 
-**Option 1: Single Bundle Price**
-- **$47** - Entry-level (budget-conscious survivors)
-- **$67** - Mid-tier (recommended sweet spot)
-- **$97** - Premium (therapists, counselors, educators)
-
-**Option 2: Tiered Access (Pay-What-You-Want with Minimum)**
-- Minimum: $27 (access to core workbook + one guide)
-- Recommended: $67 (full bundle)
-- Premium: $147 (includes 1-on-1 consultation or group coaching session)
+It should also be presented in a way that respects survivor safety and avoids triggering unsafe disclosure tactics.
 
 ---
 
-## 💬 GUMROAD PRODUCT SUMMARY (Copy-Paste)
+## Recommended final wording for the Gumroad product
 
-```
-The Sovereignty & Safety Reclamation Bundle is a comprehensive, clinical, body-based toolkit designed for survivors of domestic abuse, narcissistic relationships, and high-conflict situations.
+The Sovereignty & Safety Reclamation Bundle is a clinical, somatic, and practical toolkit for anyone navigating abuse, trauma bonding, coercive control, or high-conflict relational dynamics.
 
-This bundle includes:
-✅ Master 12-page Interactive Workbook with safety plans & evidence logs
-✅ Stages of Trauma Bonding Packet (neurochemical deep-dive)
-✅ DARVO & Blame-Shifting Clinical Guide
-✅ Strategic Disinterest Communication Guide (court-safe templates)
-✅ Toxic vs. Abusive Distinctions Packet
-✅ Encryption-Safe Digital Planner (Markdown format)
-✅ High-Resolution Course Artwork
-✅ Bonus Interactive Practice Quiz
+This bundle includes a printable master workbook, a trauma bonding packet, a DARVO and blame-shifting guide, communication tools for grey rock and yellow rock, a discreet digital planner, and bonus resources for safety and recovery.
 
-Perfect for:
-• Survivors preparing to leave abusive relationships
-• People in high-conflict co-parenting situations
-• Those working to break trauma bonds
-• Therapists, counselors & educators seeking resources
-• Anyone rebuilding after relational trauma
+It is designed to help survivors understand what is happening, protect themselves, and rebuild confidence, safety, and sovereignty.
 
-All materials are print-ready, fillable, and designed with privacy & safety in mind.
+---
+
+## Optional WordPress button code
+
+```html
+<div class="workbook-product">
+  <h2>The Sovereignty & Safety Reclamation Bundle</h2>
+  <p>A clinical & somatic roadmap to escaping the cycle of abuse</p>
+  <p>Includes workbook, trauma bonding guide, safety plan, communication tools, and more.</p>
+  <a href="https://integrityrising.gumroad.com/l/your-bundle" target="_blank" rel="noopener noreferrer">
+    Get the Bundle
+  </a>
+</div>
 ```
 
 ---
 
-## 📊 CONTENT BREAKDOWN BY USE CASE
+## Final brand direction
 
-### For Direct Survivors
-- Start with: Master Interactive Workbook + Safety Planning Worksheet
-- Then read: Stages of Trauma Bonding Packet (understand the biology)
-- Apply: Evidence Collection Log + Emergency Safety Plan
+This product should be positioned as:
+- survivor-informed
+- trauma-aware
+- practical and tactical
+- safe and discreet
+- empowering
+- premium educational content
 
-### For High-Conflict Co-Parenting
-- Start with: Strategic Disinterest Communication Guide
-- Reference: Court-Safe Email Templates
-- Use: Yellow Rock Method for required contact
-- Track: Incident log for documentation
-
-### For Therapists & Counselors
-- Use entire bundle as client educational resource
-- Reference Neurochemical Ledger for clinical explanations
-- Share DARVO guide with clients experiencing blame-shifting
-- Distribute Somatic Recovery Roadmap for nervous system work
-
-### For Educators & Support Group Leaders
-- Use Course Banner for marketing
-- Share interactive quiz with participants
-- Reference Toxic vs. Abusive guide for clarity
-- Distribute worksheets as handouts
-
----
-
-## 🔐 SAFETY & PRIVACY NOTES
-
-✅ **Privacy-First Design:**
-- Digital Planner is Markdown (not a visible PDF)
-- No identifying information in files
-- Safe to print and hide
-- Encryption-compatible formats
-- No tracking or surveillance built-in
-
-✅ **Legal Safety:**
-- Evidence logs are formatted for court admissibility
-- Communication templates are attorney-reviewed safe
-- Court-safe grey rocking guidance included
-- Incident tracker for documentation
-
-✅ **Psychological Safety:**
-- All materials validated by trauma specialists
-- Somatic exercises grounded in neuroscience
-- No victim-blaming language
-- Affirming, empowering tone throughout
-
----
-
-## 📍 WHERE TO SELL THIS
-
-**Primary Platform:** Gumroad (handles payments, delivery, email notifications)
-- Go to: https://gumroad.com
-- Upload all 6-7 PDF files as a bundle
-- Set pricing (recommend $67 as default)
-- Enable license keys for tracking (optional)
-- Set up affiliate program if desired
-
----
-
-## ✨ LAUNCH STRATEGY
-
-1. ✅ Create Gumroad product listing (TODAY)
-2. ✅ Add "Buy Now" button to WordPress.com
-3. ✅ Write launch email sequence
-4. ✅ Create social media posts (Instagram, TikTok, LinkedIn)
-5. ✅ Share free preview guide (Toxic vs. Abusive) as lead magnet
-6. ✅ Tag relevant communities (abuse recovery, therapy, wellness)
-
----
-
-## 🔗 NEXT STEPS
-
-1. **Create Gumroad Account** → https://gumroad.com/signup
-2. **Upload PDF Files** → Bundle all 6-7 documents
-3. **Set Product Details** → Title, description, pricing, cover image
-4. **Get Gumroad Product Link** → Something like: `https://integrityrising.gumroad.com/l/sovereignty-bundle`
-5. **Add to WordPress.com** → Create "Shop" or "Resources" page with buy button
-6. **Set Up Webhook** (Optional) → Send orders to your .NET backend for tracking
-
----
-
-🌻 **Ready to launch? Let me know when you want to create the WordPress page with the buy button!**
+This is a strong product line with a clear problem, clear transformation, and clear buyer outcome.
