@@ -1,0 +1,25 @@
+- name: AccuKnox Secret Scan
+  # You may pin to the exact commit or the version.
+  # uses: accuknox/secret-scan-action@5003311a9c77ab859fc4f75f7dde012dd9cfd035
+  uses: accuknox/secret-scan-action@v1.0.6
+  with:
+    # CSPM token
+    accuknox_token: 
+    # CSPM Console endpoint URL
+    accuknox_endpoint: 
+    # Label for scan results in AccuKnox Console
+    accuknox_label: 
+    # Which result types to include: verified, unknown, unverified, filtered_unverified
+    results: # optional, default is 
+    # Git branch to scan. Use 'all-branches' to scan all branches
+    branch: # optional, default is 
+    # Comma-separated list of paths to exclude from scanning
+    exclude_paths: # optional, default is 
+    # Extra arguments to pass to the secret scanning tool
+    additional_arguments: # optional, default is 
+    # Do not return an error code if there are failed checks
+    soft_fail: # optional, default is false
+    # Override the base command used to run the scan (optional)
+    base_command: # optional, default is 
+    # Upload scan results as GitHub artifact
+    upload_results: # optional, default is true
